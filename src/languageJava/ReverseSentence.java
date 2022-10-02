@@ -5,7 +5,7 @@ package languageJava;
 
 import java.util.Scanner;
 
-public class ReverseSentense {
+public class ReverseSentence {
     public static void main(String[] args) {
         System.out.println("Enter a sentence : ");
         Scanner sc=new Scanner(System.in);
