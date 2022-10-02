@@ -16,7 +16,7 @@ public class LetterCount {
         int n=sc.nextInt();
         String str1 ="";
         for (int i=0; i<n; i++){
-            str1=str1.concat(str.toLowerCase());
+            str1=str1.concat(str);
         }
         int count=0;
         System.out.println(str1);
