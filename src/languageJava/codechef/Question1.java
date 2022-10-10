@@ -1,6 +1,6 @@
 /*
 
-   Problem :  Chef has a string SS with him. Chef is happy if the string contains a contiguous substring of length
+   Problem :  Chef has a string S with him. Chef is happy if the string contains a contiguous substring of length
               strictly greater than 2 in which all its characters are vowels.
 
               Determine whether Chef is happy or not.
