@@ -1,4 +1,4 @@
-/*    Happy-Sad Problem   Contest Code : START59
+/*    Problem Code: HAPPYSTR    Contest Code : START59
 
 
    Problem :  Chef has a string S with him. Chef is happy if the string contains a contiguous substring of length
@@ -19,7 +19,7 @@ package languageJava.codechef;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Question1
+public class HappyString
 {
     public static void main (String[] args) throws java.lang.Exception
     {
