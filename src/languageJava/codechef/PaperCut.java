@@ -1,4 +1,5 @@
-/*
+/*  Problem Code:CUTPAPER
+
     Problem
     Chef has a square-shaped chart paper with the side length equal to N. He wants to cut out K times K×K squares from this chart paper.
 
@@ -35,6 +36,7 @@ public class PaperCut
             int z=(x/y)*(x/y);
             System.out.println(z);
             t--;
+
         }
     }
 }
