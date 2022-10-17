@@ -23,10 +23,14 @@ import java.util.Scanner;
 public class ChairRequare {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
+        System.out.println("No of test case : ");
         int t=sc.nextInt();
         while(t-->0){
+            System.out.println("No of students : ");
             int x=sc.nextInt();
+            System.out.println("No of chair available : ");
             int y=sc.nextInt();
+            System.out.println("Chair required : ");
             if(x<=y){
                 System.out.println(0);
             }
