@@ -1,5 +1,5 @@
 
-/*          Problem Code: CHESSTIME     Contest Code:START47
+/*          Problem Code: CHESSTIME     Contest Code:START47  Difficulty Rating - 337
 Problem
         Chef has recently started playing chess, and wants to play as many games as possible.
 
