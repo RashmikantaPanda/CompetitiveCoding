@@ -1,6 +1,6 @@
 
 /*
-
+        Problem Code: MONOPOLY      ContestCode:START66     DR-484
 Problem
         Chef is the financial incharge of Chefland and one of his duties is identifying if any company has gained a monopolistic advantage in the market.
 
